@@ -1,1 +1,1 @@
-# -OctoPrint-CleanupTimelapses
+# OctoPrint-CleanupTimelapses
